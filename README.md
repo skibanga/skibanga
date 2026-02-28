@@ -8,7 +8,7 @@
 
 ### 🎯 About Me
 
-- 🔭 Currently working as **Senior Software Developer** at [Aakvatech Limited](https://aakvatech.com) (Best Partner Africa 2025 🏆)
+- 🔭 Currently working as **Senior Software Developer** at [Aakvatech Limited](https://aakvatech.com) (Best Frappe Partner in Africa 2025 🏆)
 - 🌱 Specializing in **Frappe Framework**, **ERPNext**, **Flutter**, and **Python**
 - 💡 Passionate about **open-source** development and building scalable solutions
 - 📍 Based in Dar es Salaam, Tanzania
