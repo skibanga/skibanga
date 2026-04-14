@@ -84,7 +84,7 @@ Custom survey and feedback management system for Frappe
 - 💼 LinkedIn: [sydney-kibanga](https://linkedin.com/in/sydney-kibanga-9633b7214)
 - 📧 Email: [Contact me](mailto:sydney@example.com)
 - 🐦 GitHub: [@skibanga](https://github.com/skibanga)
-- 📱 Phone: +255 78 996 824
+- 📱 Phone: +255 78 996 8024
 
 ---
 
